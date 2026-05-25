@@ -2,7 +2,7 @@
 
 ![Personal Finance Dashboard](Project-excel-dashboard.png)
 
-[View the Excel Dashboard Preview]([https://drive.google.com/your-file-link](https://bitool6-my.sharepoint.com/:x:/g/personal/davejoshuavirtudazo_bitool6_onmicrosoft_com/IQBsUvuLsRN_QL0EY4UActMaASVELAxjjLOboNZiQNeth2A?e=6R7391))
+[View the Excel Dashboard Preview][https://drive.google.com/your-file-link](https://bitool6-my.sharepoint.com/:x:/g/personal/davejoshuavirtudazo_bitool6_onmicrosoft_com/IQBsUvuLsRN_QL0EY4UActMaASVELAxjjLOboNZiQNeth2A?e=6R7391)
 
 ## Project Overview
 
