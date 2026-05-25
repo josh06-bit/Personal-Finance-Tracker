@@ -80,7 +80,7 @@ The **Wants** category exceeded the budget by around **1.5K**, which suggests th
 
 ### 8. What is the selected month’s total expense?
 
-For the selected month, **April**, the total expense is **48,480**.
+For the selected month, **May**, the total expense is **50,226**.
 
 ### 9. What does the income and expense trend show?
 
@@ -88,7 +88,7 @@ Income remained mostly stable from April to December, while expenses decreased a
 
 ### 10. What decision can be made from this dashboard?
 
-The user can focus on reducing discretionary spending under **Wants**, while continuing to monitor major expense categories such as rent, groceries, car payments, and loans.
+Focus on reducing discretionary spending under **Wants**, while continuing to monitor major expense categories such as rent, groceries, car payments, and loans.
 
 ---
 
