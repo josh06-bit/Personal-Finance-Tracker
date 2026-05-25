@@ -21,7 +21,7 @@ This dashboard was inspired by an image/template shared by **DSA Philippines**, 
 - Charts
 - GETPIVOTDATA
 - IFS Formula
-- XLOOKUP / Lookup Functions
+- VLOOKUP / Lookup Functions
 - Dashboard Design
 - Data Analysis
 
