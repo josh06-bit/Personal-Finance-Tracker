@@ -1,6 +1,6 @@
 # Personal Finance Tracker Dashboard
 
-![Personal Finance Dashboard](images/personal-finance-dashboard.png)
+![Personal Finance Dashboard](Project excel.png)
 
 ## Project Overview
 
