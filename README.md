@@ -54,8 +54,6 @@ The largest expense category was **Rent / Mortgage**, with **93K**, representing
 
 The total income is **466,700**.
 
-![Personal Finance Dashboard](//Project-excel.png)
-
 ### 2. What is the total expense?
 
 The total expenses are **396,351**.
